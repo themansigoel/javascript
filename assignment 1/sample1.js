@@ -1,4 +1,8 @@
 function printHello()
 {
-	document.write("hey mansi dear");
+	alert("i am t he alert")
 }
+//single line comment
+/*
+multi line comment
+*/
